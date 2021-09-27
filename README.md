@@ -2,7 +2,7 @@
 A custom coded wallet that can hold ERC token and stable tokens such as DAI which is powered by Ethereum and EVM.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->What is a crypto wallet: 
+>What is a crypto wallet:  
 
 Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, which makes using crypto as easy as shopping with a credit card online.
 
