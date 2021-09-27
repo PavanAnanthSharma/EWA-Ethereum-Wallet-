@@ -1,7 +1,7 @@
 # Ethereum-Wallet 
 
 ```
-Editor: Pavan
+Editor: Pavan 
 ```
 
 A custom coded wallet that can hold ERC token and stable tokens such as DAI which is powered by Ethereum and EVM.
