@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-import "@openzeppelin/contracts/token/ERC20/ERC20Mintable.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20Mintable.sol"; //using the openziplin library
 
 contract DaiTokenMock is ERC20Mintable {
   string  public name;
